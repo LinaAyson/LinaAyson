@@ -1,5 +1,9 @@
-### Hi there 👋
+### 👩‍💻HELLO!
 
+ ⭐️ I’m currently learning: UX <br>
+ 📧  <a href="mailto:andersson.lina89@gmail.com">Contact Me</a><br>
+ 🟦 [LinkedIn](https://www.linkedin.com/in/lina-andersson89)
+ 
 <!--
 **LinaAyson/LinaAyson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
