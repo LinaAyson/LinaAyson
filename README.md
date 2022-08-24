@@ -1,6 +1,6 @@
-# 👩‍💻 HELLO!
-
-⭐️ I’m currently studying <b>Frontend development</b> <br>
+# 👩‍💻 HELLO! 
+⭐️ I’m currently studying <b>Frontend development</b> 
+<br>
 ###  I LIKE
  ⚛️ REACT <br>
  💻  HTML / CSS / JS <br>
