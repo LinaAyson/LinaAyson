@@ -11,6 +11,6 @@
 - :large_blue_circle: [LinkedIn](https://www.linkedin.com/in/lina-andersson89) <br>
 
 
-#### Welcome to my new Github
+#### Right now you can only see our very first school projects here
 
 
