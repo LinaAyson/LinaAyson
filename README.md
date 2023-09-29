@@ -1,5 +1,5 @@
 # 👩‍💻 HELLO! 
-🚀 <b>Frontend developer</b> 
+🚀 <b>Junior frontend developer</b> 
 <br>
 ###   With great passion for
 - ⚛️ REACT <br>
