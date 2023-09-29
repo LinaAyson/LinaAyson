@@ -1,9 +1,10 @@
 # 👩‍💻 HELLO! 
-⭐️ I’m currently studying <b>Frontend development</b> 
+🚀 <b>Frontend developer</b> 
 <br>
-###   I LIKE 
- - ⚛️ REACT <br>
-- 💻  HTML / CSS / JS <br>
+###   With great passion for
+- ⚛️ REACT <br>
+- 💗 Tailwind <br>
+- 💻  HTML / CSS / JS / TypeScript <br>
 - 🟨 UX
 - 👩‍🎨 FIGMA
  ###   CONTACT ME
@@ -11,6 +12,6 @@
 - :large_blue_circle: [LinkedIn](https://www.linkedin.com/in/lina-andersson89) <br>
 
 
-#### Our very first school projects 
+###
 
 
