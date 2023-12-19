@@ -1,8 +1,8 @@
 # 👩‍💻 HELLO! 
 🚀 <b>Junior frontend developer</b> <br>
 
-# Vocational Education 👩‍🎓
-KYH Frontend developer 
+#  👩‍🎓 Vocational Education
+KYH Frontend developer <br>
 Technigo JavaScript/React/Redux Upskill
 
 ###   With great passion for
