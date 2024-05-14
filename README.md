@@ -1,5 +1,5 @@
 # 👩‍💻 HELLO! 
-🚀 <b>Junior frontend developer</b> <br>
+🚀 <b>Frontend developer</b> <br>
 
 #  👩‍🎓 Vocational Education
 - KYH Frontend developer <br>
